@@ -1,0 +1,24 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;}
+
+#azul {
+    display: flex;
+    width: 40rem;
+    height: 40rem;
+    background-color: rgb(26, 26, 32);
+    padding: 50px;
+}
+.caixa {
+    display: flex;
+    gap: 50px;
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+}
+.caixa img {
+    width: 150px;
+    height: 150px;
+}
